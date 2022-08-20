@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Knapoj-01, Knapoj Chaimanekorn. Sophomore student in Electrical Engineering,  
+- 👋 Hi, I’m @Knapoj-01, Knapoj Chaimanekorn. Junior student in Electrical Engineering,  
 King Mongkut's Institute of Technology Ladkrabang (KMITL), Bangkok, Thailand.
-- 🌱 I’m interested in differential equations, electromagnetics, and thermodynamics.
+- 🌱 I’m interested in power electronics, electrical machines, and control systems.
 - 📫 63010104@kmitl.ac.th
 
 <!---
