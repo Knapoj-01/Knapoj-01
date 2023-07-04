@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Knapoj-01, Knapoj Chaimanekorn. Junior student in Electrical Engineering,  
-King Mongkut's Institute of Technology Ladkrabang (KMITL), Bangkok, Thailand.
-- 🌱 I’m interested in power electronics, electrical machines, and control systems.
+- 👋 Hi, I’m @Knapoj-01, Knapoj Chaimanekorn. Senior year student in Electrical Engineering,  
+King Mongkut's Institute of Technology Ladkrabang (KMITL), Bangkok, Thailand. GPA 3.84
+- 🌱 I’m interested in power electronics, electrical machines, drives and control systems.
 - 📫 63010104@kmitl.ac.th
 
 <!---
